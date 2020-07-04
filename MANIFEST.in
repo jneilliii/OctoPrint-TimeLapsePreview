@@ -1,0 +1,4 @@
+include README.md
+recursive-include octoprint_timelapsepreview/templates *
+recursive-include octoprint_timelapsepreview/translations *
+recursive-include octoprint_timelapsepreview/static *
